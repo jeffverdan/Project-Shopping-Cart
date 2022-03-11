@@ -1,2 +1,8 @@
 # Project-Shopping-Cart
-Carrinho de compras totalmente dinâmico consumindo dados diretamente de uma API do mercadolivre.
+https://jeffverdan.github.io/Project-Shopping-Cart/
+
+# Habilidades
+JavaScript, CSS e HTML;
+Fazer requisições a uma API (Application Programming Interface) do Mercado Livre;
+Trabalhar com funções assíncronas;
+
